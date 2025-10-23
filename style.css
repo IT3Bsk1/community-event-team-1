@@ -9,6 +9,28 @@ body {
  text-align: center;
 }
 
+footer {
+  background-color: #7AA4AD;
+}
+#end {
+  color: #FBEAD6;
+  font-size: 180px;
+  text-align: center;
+  text-transform: uppercase;
+}
+#info {
+  display: flex;
+}
+#info1 {
+  padding: 30px;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+#info2 {
+  padding: 30px;
+  font-size: 12px;
+  text-transform: uppercase;
+}
 .heading1 {
   color: #2c2c2c
 }
