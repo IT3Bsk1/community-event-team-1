@@ -7,3 +7,17 @@ body {
  background-color: var(--brand-beige);
  font-family: "Roboto Condensed", sans-serif;
 }
+
+.badge {
+  background-color: #2C2C2C;
+  color: #FBEAD6;
+
+}
+.obrazek {
+  text-align: center;
+}
+.text {
+  width: 235px;
+  height: 54px;
+  font-family: "Roboto Condensed", sans-serif;
+}
