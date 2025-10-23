@@ -6,6 +6,7 @@
 body {
  background-color: var(--brand-beige);
  font-family: "Roboto Condensed", sans-serif;
+ text-align: center;
 }
 
 .badge {
@@ -16,8 +17,60 @@ body {
 .obrazek {
   text-align: center;
 }
-.text {
+.text1 {
   width: 235px;
   height: 54px;
   font-family: "Roboto Condensed", sans-serif;
+  display: flex;
+}
+.text2 {
+  width: 235px;
+  height: 54px;
+  font-family: "Roboto Condensed", sans-serif;
+  margin-left: 1000px;
+}
+footer {
+  background-color: #7AA4AD;
+}
+#end {
+  color: #FBEAD6;
+  font-size: 180px;
+  text-align: center;
+  text-transform: uppercase;
+}
+#info {
+  display: flex;
+}
+#info1 {
+  padding: 30px;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+#info2 {
+  padding: 30px;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+.heading1 {
+  color: #2c2c2c
+}
+
+.paragraph4-1 {
+  color: #2c2c2c
+}
+
+.paragraph4-2 {
+  color: #2c2c2c
+}
+
+.img4 {
+  width: 1200px;
+  height: 600px;
+}
+.sigma{
+  width: 1180px;
+  height: 210px;
+  margin: auto;
+  /*67 */
+
 }
