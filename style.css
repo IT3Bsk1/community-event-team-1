@@ -6,4 +6,22 @@
 body {
  background-color: var(--brand-beige);
  font-family: "Roboto Condensed", sans-serif;
+ text-align: center;
+}
+
+.heading1 {
+  color: #2c2c2c
+}
+
+.paragraph4-1 {
+  color: #2c2c2c
+}
+
+.paragraph4-2 {
+  color: #2c2c2c
+}
+
+.img4 {
+  width: 1200px;
+  height: 600px;
 }
